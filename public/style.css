@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+}
+
+#start_btn {
+ height: 100px;
+ width: 200px;
+font-size: x-large
+}
+
+div{
+  line-height: 1
+}
+
+#end{
+  color: red;
+  line-height: 25;
+  font-size: x-large
+}
